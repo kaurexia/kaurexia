@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+AUTOMATIZATION+ROBOTS+MICROCONTROLLERS+NEUROSCIENCE+ENGINEERING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+AUTOMATIZATION+ROBOTS)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ENGINEERING+PROGRAMMING+NEUROSCIENCE)](https://git.io/typing-svg)
 
 
 
