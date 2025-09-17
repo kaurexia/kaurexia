@@ -5,10 +5,10 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mari</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Robotics and machine learning engineer</h3>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaurexia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kaurexia)](https://github.com/KnlnKS/leetcode-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurexia)](https://github.com/anuraghazra/github-readme-stats)
 
