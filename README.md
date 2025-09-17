@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+AUTOMATIZATION+ROBOTS)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ENGINEERING+PROGRAMMING+NEUROSCIENCE)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MICROCONTROLLERS+HACKING+MATH)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+AUTOMATIZATION+ROBOTS?align=center)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ENGINEERING+PROGRAMMING+NEUROSCIENCE)](https://git.io/typing-svg) 
 
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mari</a> 
