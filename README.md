@@ -14,7 +14,7 @@
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaurexia)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Leetcode Stats](https://leetcard.kaurexia/kaurexia)](https://leetcode.com/u/kaurexia/)
+[![Leetcode Stats](https://leetcard.kaurexia)](https://leetcode.com/u/kaurexia)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
