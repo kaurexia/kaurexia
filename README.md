@@ -5,7 +5,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Technology Researcher</h3>
 
-💻 My stack:
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaurexia)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
