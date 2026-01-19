@@ -5,9 +5,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Technology Researcher</h3>
 
-### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaurexia)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
